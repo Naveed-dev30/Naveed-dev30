@@ -9,4 +9,4 @@
 - 📖 Read my Blogs: [Blogs](https://www.medium.com/@naveedullah)
 - ⚡ Email me at: naveed.dev30@gmail.com
 
-[![Naveed's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Naveed's github stats](https://github-readme-stats.vercel.app/api?username=naveed-dev30)](https://github.com/anuraghazra/github-readme-stats)
