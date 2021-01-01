@@ -8,3 +8,5 @@
 - 📫 How to reach me: [facebook](https://www.facebook.com/nvdkhn11)
 - 📖 Read my Blogs: [Blogs](https://www.medium.com/@naveedullah)
 - ⚡ Email me at: naveed.dev30@gmail.com
+
+[![Naveed's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
