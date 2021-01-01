@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning **Block Chain**
 - 👯 I’m looking to collaborate on **Pub.dev**
 - 💬 Ask me about **Firebase and Flutter**
-- 📫 How to reach me: [facebook](https://www,.facebook.com/nvdkhn11)
-- 📖 Read my Blogs: [Blogs](https://www,.medium.com/@naveedullah)
+- 📫 How to reach me: [facebook](https://www.facebook.com/nvdkhn11)
+- 📖 Read my Blogs: [Blogs](https://www.medium.com/@naveedullah)
 - ⚡ Email me at: naveed.dev30@gmail.com
