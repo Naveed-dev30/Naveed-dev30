@@ -21,3 +21,7 @@ Skills: FLUTTER / FIREBASE / JS / HTML / CSS / TS / CLOUD
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naveed-dev30&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/naveed-dev30)  
+
+Support Me:
+
+[![ko-fi](https://github.com/Naveed-dev30/sort/blob/master/doc/donate-kofi1.png)](https://ko-fi.com/naveedullah)
