@@ -24,4 +24,4 @@ Skills: FLUTTER / FIREBASE / JS / HTML / CSS / TS / CLOUD
 
 Support Me:
 
-[![ko-fi](https://github.com/Naveed-dev30/sort/blob/master/doc/donate-kofi1.png)](https://ko-fi.com/naveedullah)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H834ROB)
