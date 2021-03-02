@@ -5,7 +5,6 @@ I am working with flutter and firebase for more than two years now, I have been 
 
 Skills: FLUTTER / FIREBASE / JS / HTML / CSS / TS / CLOUD
 
-- 🔭 I’m currently working on Happy Joe 
 - 🌱 I’m currently learning Block Chain 
 - 👯 I’m looking to collaborate on Pub.dev 
 - 💬 Ask me about Flutter & Firebase 
