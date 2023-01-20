@@ -7,8 +7,7 @@ Skills: FLUTTER / FIREBASE / JS / HTML / CSS / TS / CLOUD
 
 - 🌱 I’m currently learning Block Chain 
 - 👯 I’m looking to collaborate on Pub.dev 
-- 💬 Ask me about Flutter & Firebase 
-- 📫 How to reach me: [facebook](https://www.facebook.com/nvdkhn11) 
+- 💬 Ask me about Flutter, Firebase, Node, Mongo, Blockchain, Go, Jenkins, Synk, Datatheorm
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naveed-dev30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/naveeddev30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://flutter-stories.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naveed-ullah-2290411b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nvdkhn11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/buttercup__bc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9711749/naveed-ullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://www.medium.com/@naveedullah)  
@@ -20,7 +19,3 @@ Skills: FLUTTER / FIREBASE / JS / HTML / CSS / TS / CLOUD
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naveed-dev30&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/naveed-dev30)  
-
-Support Me:
-
-<a href='https://ko-fi.com/H2H834ROB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
