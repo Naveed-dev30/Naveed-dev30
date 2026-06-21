@@ -20,7 +20,7 @@
 
 ### 🚀 What I'm building
 
-- 🏗️ A **multi-tenant fleet & IoT telemetry platform** — event-driven core on **Kafka**, **Go** ingestion hot path (50k rec/s target), per-tenant **Postgres / TimescaleDB** isolation.
+- 🏗️ A **multi-tenant fleet & IoT telemetry platform** — event-driven core on **Kafka**, **Go** ingestion hot path (500k rec/s/node target), per-tenant **Postgres / TimescaleDB** isolation.
 - ⚡ **Real-time data pipelines** — MQTT (EMQX) → Kafka → stream forwarding, live traffic over SSE, device telemetry decoding.
 - 💳 **Billing & metering at scale** — Stripe subscriptions, usage metering, dunning, quota enforcement.
 - 🤖 **LLM-backed features** — FastAPI + vector search (**pgvector**).
