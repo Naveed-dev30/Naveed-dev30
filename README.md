@@ -92,16 +92,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-dev30&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top langs"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveed-dev30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
-</p>
-
 ---
 
 ### 📫 Reach me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://www.linkedin.com/in/naveedullah2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:naveed.dev30@gmail.com">
