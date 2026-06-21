@@ -6,7 +6,7 @@
 <!-- ====================== TYPING INTRO ====================== -->
 <p align="center">
   <a href="https://github.com/Naveed-dev30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B7FFF&center=true&vCenter=true&width=700&lines=Event-driven%2C+multi-tenant+SaaS+%E2%9A%A1;Go+ingestion+hot+path+%C2%B7+50k+rec%2Fs;NestJS+%C2%B7+Laravel+Octane+%C2%B7+Next.js+15;Kafka+%C2%B7+TimescaleDB+%C2%B7+Redis+%C2%B7+MQTT" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B7FFF&center=true&vCenter=true&width=700&lines=Event-driven%2C+multi-tenant+SaaS+%E2%9A%A1;Go+ingestion+hot+path+%C2%B7+500k+rec%2Fs;NestJS+%C2%B7+Laravel+Octane+%C2%B7+Next.js+15;Kafka+%C2%B7+TimescaleDB+%C2%B7+Redis+%C2%B7+MQTT" alt="typing intro"/>
   </a>
 </p>
 
