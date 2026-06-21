@@ -1,7 +1,7 @@
 <!-- ====================== BANNER ====================== -->
-<a href="https://github.com/Naveed-dev30">
+<!-- <a href="https://github.com/Naveed-dev30">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B7FFF,100:16202E&height=200&section=header&text=Naveed%20Ullah&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full-Stack%20%26%20Backend%20Engineer%20%C2%B7%20Distributed%20Systems&descSize=18&descAlignY=58" width="100%" alt="banner"/>
-</a>
+</a> -->
 
 <!-- ====================== TYPING INTRO ====================== -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Islamabad,%20Pakistan-16202E?style=flat-square&logo=googlemaps&logoColor=2B7FFF" alt="location"/>
-  <img src="https://img.shields.io/badge/5%2B%20years%20experience-2B7FFF?style=flat-square" alt="experience"/>
+  <img src="https://img.shields.io/badge/8%2B%20years%20experience-2B7FFF?style=flat-square" alt="experience"/>
   <img src="https://komarev.com/ghpvc/?username=Naveed-dev30&style=flat-square&color=2B7FFF&label=Profile+views" alt="views"/>
 </p>
 
